@@ -1,0 +1,9 @@
+# Dependências / build
+node_modules/
+.vercel
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+npm-debug.log*
